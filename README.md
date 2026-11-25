@@ -1,8 +1,10 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo_dark.svg">
+  <a href="assets/logo_dark.svg#gh-dark-mode-only">
+    <img src="assets/logo_dark.svg" alt="RawMo" width="440">
+  </a>
+  <a href="assets/logo.svg#gh-light-mode-only">
     <img src="assets/logo.svg" alt="RawMo" width="440">
-  </picture>
+  </a>
 </p>
 
 <div align="center">
