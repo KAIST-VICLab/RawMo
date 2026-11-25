@@ -23,7 +23,7 @@
 <div>
     <h4 align="center">
         <a href="https://kaist-viclab.github.io/RawMo_site/" target='_blank'><img src="https://img.shields.io/badge/🏠-Project%20Page-blue"></a>
-        <!-- ARXIV_BADGE_START --><a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" alt="arXiv"></a><!-- ARXIV_BADGE_END -->
+        <!-- ARXIV_BADGE_START --><a href="https://arxiv.org/abs/2611.32793" target="_blank"><img src="https://img.shields.io/badge/arXiv-2611.32793-b31b1b.svg" alt="arXiv"></a><!-- ARXIV_BADGE_END -->
         <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KAIST-VICLab/RawMo">
     </h4>
 </div>
@@ -110,7 +110,7 @@ If you find RawMo useful, please consider citing:
 @article{chen2026rawmo,
   title={Back to Raw Motion: Latent-Free Diffusion Transformers for Text-to-Motion and Exact Conditional Generation},
   author={Chen, Yun and Do, Jeonghyeok and Kim, Munchurl},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2611.32793},
   year={2026}
 }
 ```
